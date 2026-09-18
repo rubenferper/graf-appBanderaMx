@@ -1,7 +1,5 @@
-# graf-appBanderaMx
 Práctica integradora - Aplicación Bandera de México
-#Prompt 1:
-Crea una aplicación web moderna y sencilla utilizando únicamente HTML, CSS y JavaScript, colocando cada uno en un archivo separado:
+#Prompt 1: Crea una aplicación web moderna y sencilla utilizando únicamente HTML, CSS y JavaScript, colocando cada uno en un archivo separado:
 
 index.html
 style.css
@@ -33,11 +31,9 @@ style.css
 script.js
 Asegúrate de que los tres archivos estén correctamente conectados y que todas las funciones de manipulación de los dos colores funcionen sin errores.
 
-#Prompt 2:
-Quiero que sea como una bandera de México.
+#Prompt 2: Quiero que sea como una bandera de México.
 
-#Prompt 3:
-Crea una aplicación web moderna utilizando HTML, CSS y JavaScript, colocando cada uno en un archivo separado:
+#Prompt 3: Crea una aplicación web moderna utilizando HTML, CSS y JavaScript, colocando cada uno en un archivo separado:
 
 index.html
 style.css
